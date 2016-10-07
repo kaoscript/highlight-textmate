@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>qnvlnz@mbxhtha.bet</string>
+	<key>contactName</key>
+	<string>Baptiste Augrain</string>
+	<key>description</key>
+	<string>Support for &lt;a href="https://github.com/kaoscript/kaoscript"&gt;kaoscript&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>Kaoscript</string>
+	<key>uuid</key>
+	<string>DDCBDB49-58EF-4A09-B664-FEC3D84D352D</string>
+</dict>
+</plist>
